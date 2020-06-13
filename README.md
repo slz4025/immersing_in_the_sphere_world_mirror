@@ -1,2 +1,3 @@
-# immersing_in_the_sphere_world_mirror
-The original project is hosted on my other account [here](https://github.com/creatyde/ImmersingintheSphereWorld).
+# immersing_in_the_sphere_world
+
+(Presentation)[https://mediaservices.cmu.edu/media/First+Year+SCS+Student+Presentation+-+Sydney+Zheng/1_kr6r1bua]
